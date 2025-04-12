@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiruthivarma/api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiruthivarma/api/issues"
+  },
+  "homepage": "https://github.com/kiruthivarma/api#readme",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9"
+  }
+}
